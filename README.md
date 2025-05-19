@@ -10,8 +10,8 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EryxKleos&layout=compact&theme=codeSTACKr)
-![Eryx GitHub Stats](https://github-readme-stats.vercel.app/api?username=EryxKleos&show_icons=true&theme=codeSTACKr)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeuralOne-AI&layout=compact&theme=codeSTACKr)
+![NeuralOne-AI GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeuralOne-AI&show_icons=true&theme=codeSTACKr)
 
 ---
 
