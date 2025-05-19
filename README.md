@@ -1,59 +1,54 @@
-# ![NeuralOne-AI Logo](https://via.placeholder.com/150) NeuralOne-AI
+# 🧠 NeuralOne-AI
 
 > Explorando inteligência artificial com autonomia, curiosidade e propósito.
 
-**NeuralOne-AI** é uma start-up solo dedicada ao estudo, experimentação e construção de tecnologias baseadas em Inteligência Artificial.  
-Fundada por um único entusiasta — não movido por hype, mas pela busca de conhecimento real e construção com propósito.
+![GitHub followers](https://img.shields.io/github/followers/NeuralOne-AI?label=Seguidores&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/NeuralOne-AI?affiliations=OWNER&style=social)
+![Profile views](https://komarev.com/ghpvc/?username=NeuralOne-AI&style=flat&color=blue)
 
 ---
 
-## 🧬 Sobre
+## 📊 Estatísticas do GitHub
 
-- **Nome:** NeuralOne-AI  
-- **Fundador:** Projeto solo por [EryxKleos](https://github.com/EryxKleos)  
-- **Missão:** Aprender e aplicar os fundamentos da IA, construindo um ecossistema inteligente próprio.  
-- **Visão:** Em um mundo repleto de IAs prontas, o foco aqui é aprender criando — do zero, com domínio total sobre cada linha de código.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EryxKleos&layout=compact&theme=codeSTACKr)
+![Eryx GitHub Stats](https://github-readme-stats.vercel.app/api?username=EryxKleos&show_icons=true&theme=codeSTACKr)
 
 ---
 
-## 📈 Score de Progresso dos Projetos
+## 📈 Score de Progresso (em tempo real)
 
-| Projeto          | Descrição                                           | Score (💻 Progresso) |
-|------------------|-----------------------------------------------------|----------------------|
-| **Quantum**       | Núcleo inteligente modular (core da IA)             | ███░░░░░░░ 30%        |
-| **VisionX**       | Sistema de visão computacional experimental         | ██░░░░░░░░ 20%        |
-| **SynapseCore**   | Infraestrutura neural personalizada                 | ████░░░░░░ 40%        |
-| **CortexShell**   | Interface simbiótica para controle da IA            | ██░░░░░░░░ 20%        |
-| **NeuralForge**   | Ferramentas para treinamento e análise              | █░░░░░░░░░ 10%        |
-
-> ⚠️ Os scores representam estágios estimados de desenvolvimento e maturidade pública. Serão atualizados a cada commit importante.
+| Projeto          | Descrição                                   | Última atualização           | Status      |
+|------------------|----------------------------------------------|-------------------------------|-------------|
+| [**Quantum**](https://github.com/NeuralOne-AI/Quantum)       | Núcleo de IA adaptativa        | ![Last Commit](https://img.shields.io/github/last-commit/NeuralOne-AI/Quantum?style=flat-square) | ![Repo Stars](https://img.shields.io/github/stars/NeuralOne-AI/Quantum?style=flat-square) |
+| [**VisionX**](https://github.com/NeuralOne-AI/VisionX)       | Visão computacional            | ![Last Commit](https://img.shields.io/github/last-commit/NeuralOne-AI/VisionX?style=flat-square) | ![Repo Stars](https://img.shields.io/github/stars/NeuralOne-AI/VisionX?style=flat-square) |
+| [**SynapseCore**](https://github.com/NeuralOne-AI/SynapseCore) | Framework neural customizado   | ![Last Commit](https://img.shields.io/github/last-commit/NeuralOne-AI/SynapseCore?style=flat-square) | ![Repo Stars](https://img.shields.io/github/stars/NeuralOne-AI/SynapseCore?style=flat-square) |
 
 ---
 
-## 🧭 Objetivos do Projeto
+## 📂 Linguagens e Métricas Avançadas
 
-- 📚 Estudar e aplicar IA, machine learning e deep learning do zero.  
-- 🧪 Testar arquiteturas híbridas (redes neurais + lógica simbólica).  
-- 🔧 Construir projetos e protótipos com fins de aprendizado real.  
-- 🧠 Criar uma IA utilizável, transparente e compreendida por seu criador.  
+![Metrics](https://raw.githubusercontent.com/NeuralOne-AI/NeuralOne-AI/main/github-metrics.svg)
 
----
-
-## 📤 Status Atual
-
-🚧 Em fase de estruturação inicial.  
-📦 Repositórios serão publicados gradualmente.  
-🎯 Priorizando qualidade, domínio conceitual e propósito prático.
+> Para ativar este SVG, configure o [Metrics](https://github.com/lowlighter/metrics) com GitHub Actions no seu repositório.
 
 ---
 
-## 📬 Contato
+## 📬 Contato & Redes Sociais
 
-> Atualmente em modo stealth — mas sempre aprendendo.
+[![Instagram Badge](https://img.shields.io/badge/-@e.cssilva0-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/e.cssilva0)](https://instagram.com/e.cssilva0)
+[![Email Badge](https://img.shields.io/badge/-EryxKleos@proton.me-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:eryxkleos@proton.me)](mailto:eryxkleos@proton.me)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/pop)](https://linkedin.com/in/pop)
+[![Twitter Badge](https://img.shields.io/badge/-@seuTwitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/pop)](https://twitter.com/pop)
 
-- [<svg height="16" viewBox="0 0 24 24" width="16" xmlns="http://www.w3.org/2000/svg" fill="#C13584" style="vertical-align:middle; margin-right:4px;"><path d="M7.75 2a5.48 5.48 0 0 0-5.48 5.48v8.04a5.48 5.48 0 0 0 5.48 5.48h8.5a5.48 5.48 0 0 0 5.48-5.48v-8.04a5.48 5.48 0 0 0-5.48-5.48h-8.5zm8.32 3.52a1.04 1.04 0 1 1 0 2.08 1.04 1.04 0 0 1 0-2.08zm-4.32 1.52a4.96 4.96 0 1 1 0 9.92 4.96 4.96 0 0 1 0-9.92zM12 15.68a3.68 3.68 0 1 0 0-7.36 3.68 3.68 0 0 0 0 7.36z"/></svg> Instagram]: [@e.cssilva0](https://instagram.com/e.cssilva0)
-  
-- [<svg height="16" viewBox="0 0 24 24" width="16" xmlns="http://www.w3.org/2000/svg" fill="#0A66C2" style="vertical-align:middle; margin-right:4px;"><path d="M4.98 3.5C4.98 4.88 3.8 6.04 2.42 6.04 1.03 6.04 0 4.88 0 3.5S1.02 1 2.42 1c1.38 0 2.56 1.16 2.56 2.5zM.24 24v-14h4.64v14H.24zm15.54-10.5v1.92c.66-1.1 2.34-2.23 4.81-2.23 5.14 0 6.08 3.4 6.08 7.83v8.78h-4.63v-7.77c0-1.85-.03-4.24-2.59-4.24-2.59 0-2.98 2.03-2.98 4.11v7.9h-4.64v-14h4.46v1.77h.06z"/></svg> LinkedIn]: _em breve_  
-- [<svg height="16" viewBox="0 0 24 24" width="16" xmlns="http://www.w3.org/2000/svg" fill="#1DA1F2" style="vertical-align:middle; margin-right:4px;"><path d="M23.954 4.569a10 10 0 0 1-2.828.775 4.932 4.932 0 0 0 2.165-2.724c-.951.56-2.005.97-3.127 1.18a4.916 4.916 0 0 0-8.36 4.482 13.965 13.965 0 0 1-10.141-5.144 4.917 4.917 0 0 0 1.523 6.573A4.894 4.894 0 0 1 .964 9.03v.062a4.917 4.917 0 0 0 3.946 4.816 4.902 4.902 0 0 1-2.212.083 4.918 4.918 0 0 0 4.59 3.417 9.868 9.868 0 0 1-6.102 2.105c-.395 0-.79-.023-1.17-.067a13.933 13.933 0 0 0 7.557 2.212c9.056 0 14.01-7.496 14.01-13.985 0-.213 0-.425-.015-.637A9.936 9.936 0 0 0 24 4.59z"/></svg> Twitter] (X): _em breve_  
+---
 
-- Email: _em breve_
+## 🚧 Status Atual
+
+- 📦 Repositórios em construção  
+- 🧠 Estudo profundo de arquitetura Transformer, Cython, IA simbólica  
+- 🔍 Em busca de domínio total sobre cada camada do sistema  
+
+---
+
+> _"Não basta usar uma IA. É preciso entendê-la, linha por linha."_  
+> — NeuralOne-AI
