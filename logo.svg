@@ -1,0 +1,6 @@
+<svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="100" fill="black"/>
+  <text x="50%" y="50%" font-family="Montserrat, sans-serif" font-size="48" fill="white" dominant-baseline="middle" text-anchor="middle">
+    NeuralOne-AI
+  </text>
+</svg>
