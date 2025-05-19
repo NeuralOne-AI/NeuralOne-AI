@@ -1,4 +1,3 @@
-# 🧠 NeuralOne-AI
 <p align="center">
   <img src="logo.svg" alt="NeuralOne-AI Logo" height="150"/>
 </p>
