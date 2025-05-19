@@ -36,7 +36,7 @@
 ## 📬 Contato & Redes Sociais
 
 [![Instagram Badge](https://img.shields.io/badge/-@e.cssilva0-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/e.cssilva0)](https://instagram.com/e.cssilva0)
-[![Email Badge](https://img.shields.io/badge/-neuralone-ai@2mail.co-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:neuralone-ai@2mail.co)](mailto:neuralone-ai@2mail.co)
+[![Email](https://img.shields.io/badge/Email-neuralone--ai@2mail.co-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:neuralone-ai@2mail.co)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/pop)](https://linkedin.com/in/pop)
 [![Twitter Badge](https://img.shields.io/badge/-@seuTwitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/pop)](https://twitter.com/pop)
 
