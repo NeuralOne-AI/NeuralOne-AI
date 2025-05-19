@@ -10,7 +10,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeuralOne-AI&layout=compact&theme=codeSTACKr)
 ![NeuralOne-AI GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeuralOne-AI&show_icons=true&theme=codeSTACKr)
@@ -27,7 +27,7 @@
 
 ---
 
-## 📂 Linguagens e Métricas Avançadas
+## Linguagens e Métricas Avançadas
 
 ![Metrics](https://raw.githubusercontent.com/NeuralOne-AI/NeuralOne-AI/main/github-metrics.svg)
 
@@ -35,7 +35,7 @@
 
 ---
 
-## 📬 Contato & Redes Sociais
+## Contato & Redes Sociais
 
 [![Instagram Badge](https://img.shields.io/badge/-@e.cssilva0-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/e.cssilva0)](https://instagram.com/e.cssilva0)
 [![Email](https://img.shields.io/badge/Email-neuralone--ai@2mail.co-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:neuralone-ai@2mail.co)
@@ -44,13 +44,9 @@
 
 ---
 
-## 🚧 Status Atual
+## Status
 
-- 📦 Repositórios em construção  
-- 🧠 Estudo profundo de arquitetura Transformer, Cython, IA simbólica  
-- 🔍 Em busca de domínio total sobre cada camada do sistema  
+- Repositórios em construção  
+- Estudo profundo de arquitetura Transformer, Cython, C++ e R 
 
 ---
-
-> _"Não basta usar uma IA. É preciso entendê-la, linha por linha."_  
-> — NeuralOne-AI
